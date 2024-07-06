@@ -93,7 +93,7 @@
            
             <li class="nav-small-cap">
               <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-              <span class="hide-menu">AUTH</span>
+              <span class="hide-menu">---------------------------</span>
             </li>
             <li class="sidebar-item">
               <a class="sidebar-link" href="controls/logout.php" aria-expanded="false">
